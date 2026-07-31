@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Stardew Valley",
+    "system": "PC Steam",
+    "genre": "Farming simulator",
+    "status": "None",
+    "grade": 10.0,
+    "cover": "covers/stardew_valley.png"
+  },
+  {
+    "name": "Pokémon Fire Red",
+    "system": "GBA",
+    "genre": "RPG",
+    "status": "Replaying",
+    "grade": 10.0,
+    "cover": "covers/pokemon_fire_red.jpg"
+
+  },
+  {
+    "name": "The Witcher 3: Wild Hunter",
+    "genre": "Action-RPG",
+    "status": "Complete",
+    "grade": 9.5,
+    "system": "PS4",
+    "cover": "covers/the_witcher_3_wild_hunt.jpg"
+
+  },
+  {
+    "name": "Uncharted 2: Among Thieves",
+    "genre": "TPS",
+    "status": "Complete",
+    "grade": 9.0,
+    "system": "PS4",
+    "cover": "covers/uncharted_2_among_thieves.png"
+
+  },
+  {
+    "name": "Final Fantasy III",
+    "genre": "JRPG",
+    "status": "Playing",
+    "grade": 7.0,
+    "system": "NDS",
+    "cover": "covers/final_fantasy_3.jpeg"
+
+  },
+  {
+    "name": "Xenoblade Chronicles",
+    "genre": "JRPG",
+    "status": "Playing",
+    "grade": 8.0,
+    "system": "Switch",
+    "cover": "covers/xenoblade_chronicles.jpg"
+  }
+]
